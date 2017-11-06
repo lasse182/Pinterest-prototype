@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>cube-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="26.0527805%" x2="100%" y2="74.5124173%" id="linearGradient-1">
+            <stop stop-color="#02AAB0" offset="0%"></stop>
+            <stop stop-color="#00CDAC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cube-outline" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <path d="M18,14.5 C18,14.88 17.79,15.21 17.47,15.38 L9.57,19.82 C9.41,19.94 9.21,20 9,20 C8.79,20 8.59,19.94 8.43,19.82 L0.53,15.38 C0.21,15.21 0,14.88 0,14.5 L0,5.5 C0,5.12 0.21,4.79 0.53,4.62 L8.43,0.18 C8.59,0.06 8.79,0 9,0 C9.21,0 9.41,0.06 9.57,0.18 L17.47,4.62 C17.79,4.79 18,5.12 18,5.5 L18,14.5 L18,14.5 Z M9,2.15 L3.04,5.5 L9,8.85 L14.96,5.5 L9,2.15 L9,2.15 Z M2,13.91 L8,17.29 L8,10.58 L2,7.21 L2,13.91 L2,13.91 Z M16,13.91 L16,7.21 L10,10.58 L10,17.29 L16,13.91 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
